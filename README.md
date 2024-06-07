@@ -13,8 +13,8 @@ Eu sou a Maria, uma apaixonada Designer UI/UX e Desenvolvedora Front-end. Bem-vi
 <code> TypeScript </code>
 <code> Angular </code>
 <code> MySQL </code>
-<code> Controle de Versão (Git) </code>
-<code> Integração de APIs </code>
+<code> Git </code>
+<code> APIs </code>
 
 ### 📫 Como me encontrar
 - **Email**: [mbeaatriz@gmail.com](mailto:mbeaatriz@gmail.com)
