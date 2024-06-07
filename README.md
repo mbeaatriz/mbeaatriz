@@ -1,16 +1,26 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**mbeaatriz/mbeaatriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou a Maria, uma apaixonada Designer UI/UX e Desenvolvedora Front-end. Bem-vindo ao meu perfil no GitHub!
 
-Here are some ideas to get you started:
+### 🌟 Sobre Mim
+**Designer Pleno** na Enext, especializada na criação de layouts inovadores para redes sociais, websites e diversos canais de mídia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Habilidades Técnicas
+<code> UI/UX </code>
+<code> HTML </code>
+<code> CSS </code>
+<code> JavaScript </code>
+<code> TypeScript </code>
+<code> Angular </code>
+<code> MySQL </code>
+<code> Controle de Versão (Git) </code>
+<code> Integração de APIs </code>
+
+### 📫 Como me encontrar
+- **Email**: [mbeaatriz@gmail.com](mailto:mbeaatriz@gmail.com)
+- **LinkedIn**: [Maria Beatriz no LinkedIn](https://www.linkedin.com/in/maria-beatriz-b8731815b)
+- **Behance**: [Maria Beatriz no Behance](https://www.behance.net/mariabeatriz6)
+
+Fique à vontade para entrar em contato se tiver alguma dúvida ou se quiser colaborar em um projeto. Estou sempre aberta a novas oportunidades e conexões!
+
+Obrigada por visitar meu perfil!
