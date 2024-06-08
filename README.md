@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Eu sou a Maria, uma apaixonada Designer UI/UX e Desenvolvedora Front-end. Bem-vindo ao meu perfil no GitHub!
+Eu sou a Maria, uma apaixonada Designer UI/UX e FullStack Developer. Bem-vindo ao meu perfil no GitHub!
 
 ### 🌟 Sobre Mim
 **Designer Pleno** na Enext, especializada na criação de layouts inovadores para redes sociais, websites e diversos canais de mídia.
@@ -12,6 +12,7 @@ Eu sou a Maria, uma apaixonada Designer UI/UX e Desenvolvedora Front-end. Bem-vi
 <code> JavaScript </code>
 <code> TypeScript </code>
 <code> Angular </code>
+<code> NestJS </code>
 <code> MySQL </code>
 <code> Git </code>
 <code> APIs </code>
